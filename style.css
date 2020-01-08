@@ -1,0 +1,14 @@
+body{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+pretty-button{
+  margin: 5px auto;
+  align-self: center;
+}
+
+h1, h2, p{
+  text-align: center;
+  align-self: center;
+}
